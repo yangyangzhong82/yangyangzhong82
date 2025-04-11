@@ -1,4 +1,4 @@
-### 你好 👋, 我是 [yangyangzhong82]
+### 你好 👋, 我是 yangyangzhong82
 
 一名来自中国的一名学生
 
