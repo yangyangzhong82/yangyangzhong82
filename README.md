@@ -1,16 +1,13 @@
-## Hi there 👋
+### 你好 👋, 我是 [yangyangzhong82]
 
-<!--
-**yangyangzhong82/yangyangzhong82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一名来自中国的一名学生
 
-Here are some ideas to get you started:
+很高兴在 GitHub 与你相遇！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yangyangzhong82&show_icons=true&locale=zh-cn&theme=radical&hide_border=true&count_private=true" alt="yangyangzhong82 GitHub Stats" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangyangzhong82&layout=compact&locale=zh-cn&theme=radical&hide_border=true&count_private=true" alt="yangyangzhong82 Top Languages" />
+  <br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yangyangzhong82&theme=radical&hide_border=true&locale=zh_Hans" alt="GitHub Streak" />
+</p>
